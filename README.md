@@ -2,4 +2,6 @@
 
 This is really awasome website
 
-updates mades on master before rebase
+## purpose
+
+the purpose of this file to provide example on how to use git and github toghter

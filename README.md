@@ -2,5 +2,4 @@
 
 This is really awasome website
 
-edit in example file
-hii
+updates mades on master before rebase
